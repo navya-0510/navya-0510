@@ -18,11 +18,40 @@ https://github.com/navya-0510/hospital-readmission-prediction
 
 ## 🧠 Skills
 
+### Programming
+
 * Python
-* Data Analysis
-* Machine Learning
-* Pandas & NumPy
-* Data Visualization
+* SQL
+* C++
+* C
+* R Programming
+
+### Data Analysis
+
+* Pandas
+* NumPy
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+
+### Machine Learning
+
+* Scikit-learn
+* Model Evaluation
+* Feature Engineering
+* Classification Models
+
+### Data Visualization
+
+* Matplotlib
+* Seaborn
+* Tableau (Google Data Analytics)
+
+### Tools & Technologies
+
+* Jupyter Notebook
+* Git & GitHub
+* Excel / Google Sheets
+
 
 ---
 
