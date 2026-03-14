@@ -55,11 +55,13 @@ https://github.com/navya-0510/hospital-readmission-prediction
 
 ---
 
-## 📊 Currently Learning
+## 📚 Currently Learning
 
-* Advanced Machine Learning
-* Deep Learning
-* Data Science projects
+* Machine Learning algorithms
+* Advanced Python for Data Science
+* Data Visualization best practices
+* Building end-to-end ML projects
+
 
 ---
 
