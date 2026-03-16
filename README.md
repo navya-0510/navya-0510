@@ -6,15 +6,23 @@
 
 ## **🛠 Skills**
 
-Languages: Python, C, R
-Data Analysis: Pandas, NumPy, Data Cleaning, EDA
-Machine Learning: Scikit-learn, Feature Engineering, Model Evaluation, Classification
+* Data Analysis & Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Machine Learning Model Development
+* Feature Engineering
+* Model Evaluation & Performance Analysis
+* Data Visualization
+
+
 
 ## **🚀 Projects**
 
-Hospital Readmission Prediction
-Machine learning model to predict **patient readmission risk using healthcare data**.
-Tech: Python, Pandas, Scikit-learn, Matplotlib
+**Hospital Readmission Prediction**
+
+* Built a machine learning model to predict patient readmission risk
+* Performed data cleaning and exploratory data analysis
+* Implemented classification models using Scikit-learn
+
 
 ## **🌐 Socials**
 
