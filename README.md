@@ -1,12 +1,26 @@
-### 💫 About Me
+## **💫 About Me**
 
-#### 👋 Hi, I'm Navya<br><br>🎓 Student Developer interested in **Machine Learning, Data Analytics, and AI applications**<br><br>##### 🛠 Skills<br><br>**Languages:** Python, C, R<br>**Data Analysis:** Pandas, NumPy, Data Cleaning, EDA<br>**Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation, Classification<br><br>##### 🚀 Projects<br><br>**Hospital Readmission Prediction**<br>Machine learning model to predict **patient readmission risk using healthcare data**.<br>**Tech:** Python, Pandas, Scikit-learn, Matplotlib<br>
+👋 Hi, I'm Navya
 
-#### 🌐 Socials:
+🎓 Student Developer interested in **Machine Learning, Data Analytics, and AI applications**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ navya-navya-aa78a531a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:navyanaivedya@gmail.com)
+## **🛠 Skills**
 
-### 💻 Tech Stack:
+Languages: Python, C, R
+Data Analysis: Pandas, NumPy, Data Cleaning, EDA
+Machine Learning: Scikit-learn, Feature Engineering, Model Evaluation, Classification
+
+## **🚀 Projects**
+
+Hospital Readmission Prediction
+Machine learning model to predict **patient readmission risk using healthcare data**.
+Tech: Python, Pandas, Scikit-learn, Matplotlib
+
+## **🌐 Socials**
+
+[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/navya-navya-aa78a531a) | Email: [navyanaivedya@gmail.com](mailto:navyanaivedya@gmail.com)
+
+## **💻 Tech Stack**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge\&logo=r\&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
