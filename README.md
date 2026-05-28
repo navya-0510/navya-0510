@@ -1,10 +1,10 @@
-## **💫 About Me**
-
-👋 Hi, I'm Navya
+## **😙 About Me **
+ 
+Hi, I'm Navya !
 
 🎓 Student Developer interested in **Machine Learning, Data Analytics, and AI applications**
 
-## **🛠 Skills**
+## **🛠 Skills** 
 
 * Data Analysis & Data Cleaning
 * Exploratory Data Analysis (EDA)
